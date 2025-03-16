@@ -1,6 +1,4 @@
 # YouTube Comments Classification
 
 ## Instructions:
-Run notebooks in the following order:
-1. data_preparation
-2. data_exploring
+To run the data_exploring.ipynb and model_building.ipynb notebooks you need to first install the requirements from requirements.txt and run data_preparation.
